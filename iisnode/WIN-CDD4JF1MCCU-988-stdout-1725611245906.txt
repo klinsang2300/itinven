@@ -1,0 +1,4 @@
+> Ready on http://localhost:\\.\pipe\1dc29fe9-320e-42b1-8441-264bf6536050
+${ProId}
+AY
+AY#AIO#0001

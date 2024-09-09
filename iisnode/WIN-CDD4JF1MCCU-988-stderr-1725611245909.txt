@@ -1,0 +1,130 @@
+(node:988) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:12618:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2338)
+    at async t (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2451) {
+  cause: Error: connect ECONNREFUSED 192.168.1.26:3000
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.26',
+    port: 3000
+  },
+  digest: '3461958887'
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:12618:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2338)
+    at async t (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2451) {
+  cause: Error: connect ECONNREFUSED 192.168.1.26:3000
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.26',
+    port: 3000
+  },
+  digest: '3461958887'
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:12618:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2338)
+    at async t (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2451) {
+  cause: Error: connect ECONNREFUSED 192.168.1.26:3000
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.26',
+    port: 3000
+  },
+  digest: '3461958887'
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:12618:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2338)
+    at async t (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2451) {
+  cause: Error: connect ECONNREFUSED 192.168.1.26:3000
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.26',
+    port: 3000
+  },
+  digest: '3461958887'
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:12618:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2338)
+    at async t (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2451) {
+  cause: Error: connect ECONNREFUSED 192.168.1.26:3000
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.26',
+    port: 3000
+  },
+  digest: '3461958887'
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:12618:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2338)
+    at async t (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2451) {
+  cause: Error: connect ECONNREFUSED 192.168.1.26:3000
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.26',
+    port: 3000
+  },
+  digest: '3461958887'
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:12618:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2338)
+    at async t (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2451) {
+  cause: Error: connect ECONNREFUSED 192.168.1.26:3000
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.26',
+    port: 3000
+  },
+  digest: '3461958887'
+}
+TypeError: fetch failed
+    at node:internal/deps/undici/undici:12618:11
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async a (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2338)
+    at async t (D:\NextJS\itinven\.next\server\app\inven\[proid]\page.js:1:2451) {
+  cause: Error: connect ECONNREFUSED 192.168.1.26:3000
+      at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16)
+      at TCPConnectWrap.callbackTrampoline (node:internal/async_hooks:128:17) {
+    errno: -4078,
+    code: 'ECONNREFUSED',
+    syscall: 'connect',
+    address: '192.168.1.26',
+    port: 3000
+  },
+  digest: '3461958887'
+}
